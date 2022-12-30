@@ -19,11 +19,15 @@ the documentation of the back-end for details.
 Next, download the latest release from GitHub or clone the repository to your
 computer using:
 
-`git clone https://github.com/woofer-org/woofer-gtk.git`
+```sh
+git clone https://github.com/woofer-org/woofer-gtk.git
+```
 
 Now, to compile and link, all you should have to do is running:
 
-`./configure && make`
+```sh
+./configure && make
+```
 
 to configure and build.  When any errors occur complaining about missing headers
 or undefined symbols, make sure you have set the right compile and linker flags
@@ -35,7 +39,9 @@ After compilation finished successfully, you can optionally install (with or
 without a specified prefix; it defaults to /usr/local) the files into your
 system with:
 
-`sudo make install`
+```sh
+sudo make install
+```
 
 ## Contributing
 
