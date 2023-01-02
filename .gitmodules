@@ -1,0 +1,4 @@
+[submodule "LibWoofer"]
+	path = libwoofer
+	url = https://github.com/woofer-org/libwoofer.git
+	branch = master
