@@ -11,6 +11,10 @@ obj/*
 *.i
 *.s
 
+# Archive files
+*.tar
+*.tar.gz
+
 # Autotools files
 autom4te.cache
 aclocal.m4
