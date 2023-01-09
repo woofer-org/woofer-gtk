@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: GPL-3.0-or-later
  *
- * main.c  This file is part of Woofer GTK GTK
+ * main.c  This file is part of Woofer GTK
  * Copyright (C) 2021, 2022  Quico Augustijn
  *
  * This program is free software: you can redistribute it and/or modify
