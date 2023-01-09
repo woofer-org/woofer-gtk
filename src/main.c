@@ -57,7 +57,7 @@ static gboolean NoCsd = FALSE;
 static const GOptionEntry Options[] =
 {
 	// Interface options
-	{// TODO Process in interface
+	{
 		"no-csd", '\0', G_OPTION_FLAG_NONE,
 		G_OPTION_ARG_NONE, &NoCsd,
 		"Do not use client-side decoration",

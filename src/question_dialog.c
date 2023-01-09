@@ -49,7 +49,7 @@
 /*
  * This provides a simple and flexible dialog with a question for the user, to
  * which he can respond with either yes or no.
- * TODO TODO TODO
+ *
  * Question dialog is an interface extension intended to be used by
  * non-interface modules to ask the user (via the graphical interface) if a
  * particular task should really be performed.
